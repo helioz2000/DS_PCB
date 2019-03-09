@@ -2,6 +2,7 @@
 
 ### lc_led
 **IR sender LEDS and current limiting driver circuit**
+
 lc_led_R1_V-drop.png - scope image recorded across R1. P-P voltage must be 4.4V
 
 **LC_Power - power supply board for the LED**
