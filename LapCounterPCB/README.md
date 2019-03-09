@@ -1,9 +1,10 @@
 # Lap Counter PCB collection
 
-lc_led - contains IR sender LEDS and current limiting driver circuit
+### lc_led
+**IR sender LEDS and current limiting driver circuit**
 lc_led_R1_V-drop.png - scope image recorded across R1. P-P voltage must be 4.4V
 
-LC_Power - the power supply board for the LED 
+**LC_Power - power supply board for the LED**
 - two battery inputs (lead acid or 18V Lithium Power tool battery
 - automatic changeover between batteries
 - display battery info on LCD
@@ -11,7 +12,7 @@ LC_Power - the power supply board for the LED
 - provides POE injector for Ubiquity Bullet Access Point (unregulated)
 the small board on this PCB contains the 38kHz pulse generator required to drive the LED boards.
 
-LC_wemos - boards for Wemos based IR receiver.
+**LC_wemos - boards for Wemos based IR receiver**
 
 
 
